@@ -1,0 +1,42 @@
+<html>
+<style>
+<body>{background-color: rgb(244,244,244);}
+h1.nume{
+color:cadetblue;
+font-family:Verdana, Geneva, Tahoma, Sans-serif;
+font-size:40px;
+font-style:oblique;
+}
+h2.sectiuni{color:rgb(109,23,23),rgb(71,71,224));}
+p{
+color:turquoise;
+font-size:20px;
+font-family:cursive;
+}
+table, tr, td, ul{color:grey;
+border:3px thin peachpuff;
+}
+img.profil{
+border:3px thin plum;
+border-radius: 15px;
+display:flow-root;
+padding:2px;
+margin:left;
+opacity:0.8;
+}
+
+a.LinkCat{
+font-style:oblique;
+font-size:24px;}
+
+#LogoCat{
+border:3px thin plum;
+border-radius:15px;
+width:30px;
+display:block;
+opacity:0.9;
+}
+</style>
+
+
+</html>
